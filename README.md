@@ -12,6 +12,22 @@
 - User-Friendly Interface: A simple popup with a dropdown menu to select the desired filter and an apply button.
 - Persistent Settings: Save your default filter setting for future browsing sessions.
 
+## Project Preview
+#### Extension Look
+![https://github.com/AyushiGupta160604/ColorBlindnessAssistant/blob/main/Project%20Preview/popup.png](popup)
+
+#### Normal Vision
+![https://github.com/AyushiGupta160604/ColorBlindnessAssistant/blob/main/Project%20Preview/none.png](none)
+
+#### Protanopia
+![https://github.com/AyushiGupta160604/ColorBlindnessAssistant/blob/main/Project%20Preview/protanopia.png](protanopia)
+
+#### Tritanopia
+![https://github.com/AyushiGupta160604/ColorBlindnessAssistant/blob/main/Project%20Preview/tritanopia.png](tritanopia)
+
+#### Deuteranopia
+![https://github.com/AyushiGupta160604/ColorBlindnessAssistant/blob/main/Project%20Preview/deuteranopia.png](deuteranopia)
+
 ## Installation
 1. Clone the repository:
    ```
