@@ -14,19 +14,19 @@
 
 ## Project Preview
 #### Extension Look
-![https://github.com/AyushiGupta160604/ColorBlindnessAssistant/blob/main/Project%20Preview/popup.png](popup)
+![popup](https://github.com/AyushiGupta160604/ColorBlindnessAssistant/blob/main/Project%20Preview/popup.png)
 
 #### Normal Vision
-![https://github.com/AyushiGupta160604/ColorBlindnessAssistant/blob/main/Project%20Preview/none.png](none)
+![none](https://github.com/AyushiGupta160604/ColorBlindnessAssistant/blob/main/Project%20Preview/none.png)
 
 #### Protanopia
-![https://github.com/AyushiGupta160604/ColorBlindnessAssistant/blob/main/Project%20Preview/protanopia.png](protanopia)
+![protanopia](https://github.com/AyushiGupta160604/ColorBlindnessAssistant/blob/main/Project%20Preview/protanopia.png)
 
 #### Tritanopia
-![https://github.com/AyushiGupta160604/ColorBlindnessAssistant/blob/main/Project%20Preview/tritanopia.png](tritanopia)
+![tritanopia](https://github.com/AyushiGupta160604/ColorBlindnessAssistant/blob/main/Project%20Preview/tritanopia.png)
 
 #### Deuteranopia
-![https://github.com/AyushiGupta160604/ColorBlindnessAssistant/blob/main/Project%20Preview/deuteranopia.png](deuteranopia)
+![deuteranopia](https://github.com/AyushiGupta160604/ColorBlindnessAssistant/blob/main/Project%20Preview/deuteranopia.png)
 
 ## Installation
 1. Clone the repository:
