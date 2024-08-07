@@ -33,25 +33,25 @@ This extension is built using:
 - Backend: No server-side code required
 
 ## Project Structer
-- `manifest.json`: Chrome extension manifest file
-- `background.js`: Background script for handling installation events
-- `popup/`: Popup UI and logic
-  - `popup.html`: HTML for the popup
-  - `popup.css`: Styles for the popup
-  - `popup.js`: JavaScript for the popup interactions
-- `content/`: Content scripts applied to web pages
-  - `content.css`: CSS for applying filters
-  - `content.js`: JavaScript for injecting SVG filters
-- `options/`: Options page for setting default filters
-  - `options.html`: HTML for the options page
-  - `options.js`: JavaScript for saving default filter settings
-- `filter.svg`: SVG filters for color blindness simulation
+- manifest.json: Chrome extension manifest file
+- background.js: Background script for handling installation events
+- popup/: Popup UI and logic
+  - popup.html: HTML for the popup
+  - popup.css: Styles for the popup
+  - popup.js: JavaScript for the popup interactions
+- content/: Content scripts applied to web pages
+  - content.css: CSS for applying filters
+  - content.js: JavaScript for injecting SVG filters
+- options/: Options page for setting default filters
+  - options.html: HTML for the options page
+  - options.js: JavaScript for saving default filter settings
+- filter.svg: SVG filters for color blindness simulation
 
 ## Contact
 #### For any inquiries or feedback, please contact the project maintainer at:
-- Email: 22cs3022@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ayushigupta1604/
-- Twitter: https://x.com/Ayushi_G16
-- Github: https://github.com/AyushiGupta160604
-- Topmate: https://topmate.io/ayushi_gupta16/
-- Fiver: https://www.fiverr.com/users/ayushigupta200/
+- Email: `22cs3022@gmail.com`
+- LinkedIn: `https://www.linkedin.com/in/ayushigupta1604/`
+- Twitter: `https://x.com/Ayushi_G16`
+- Github: `https://github.com/AyushiGupta160604`
+- Topmate: `https://topmate.io/ayushi_gupta16/`
+- Fiver: `https://www.fiverr.com/users/ayushigupta200/`
